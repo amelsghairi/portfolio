@@ -381,6 +381,10 @@ border-radius: 50rem;
     width: 75%;
 
 }
+.about .row-2 .skills .progress:nth-child(9) .bar span{
+    width: 85%;
+
+}
 /* about end */
 /* experience start */
 .experience .box-container{
